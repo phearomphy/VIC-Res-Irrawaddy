@@ -1,0 +1,13 @@
+Hmax(M)	Hmin(M)	Slive(1000M3)	Sd(1000M3)	Hturbine(M)	Qdesign (M3/s)	Year	Sinitial(1000M3)	Name
+207	186	371256	72069	52	52	2016	0	Myogyi
+SEEPAGE	INFILTRATION							
+0	0							
+IRRIGATION
+0
+DUMMY
+OPERATION STRATEGY		
+6		
+../parameter/reservoirs/storagedata/storagedata9.txt
+BATHYMETRY PARAMETERS		
+0		
+354366.6942	0.036883876	-0.005136901	103.9163234	

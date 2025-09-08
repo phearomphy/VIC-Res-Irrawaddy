@@ -1,0 +1,1439 @@
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: UY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          70 ,          70
+ --------------------
+ Searching Catchment...
+ Number of grid cells         870
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         870
+ Making UH_S grid... UY.uh_s
+ --------------------
+ Routing station: DY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          54 ,          60
+ --------------------
+ Searching Catchment...
+ Number of grid cells        1034
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        1034
+ Making UH_S grid... DY.uh_s
+ --------------------
+ Routing station: DM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          41 ,          80
+ --------------------
+ Searching Catchment...
+ Number of grid cells         475
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         475
+ Making UH_S grid... DM.uh_s
+ --------------------
+ Routing station: SC [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          24 ,          49
+ --------------------
+ Searching Catchment...
+ Number of grid cells         188
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         188
+ Making UH_S grid... SC.uh_s
+ Making Convolution...
+ Number of Stations=           4
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           2
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           3
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           4
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: UY                   
+ writing data for all steps...UY        
+ writing data for reservoirs upstream of station: UY                   
+ writing data for station: DY                   
+ writing data for all steps...DY        
+ writing data for reservoirs upstream of station: DY                   
+ writing data for station: DM                   
+ writing data for all steps...DM        
+ writing data for reservoirs upstream of station: DM                   
+ writing data for station: SC                   
+ writing data for all steps...SC        
+ writing data for reservoirs upstream of station: SC                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: UY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          70 ,          70
+ --------------------
+ Searching Catchment...
+ Number of grid cells         870
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         870
+ Making UH_S grid... UY.uh_s
+ --------------------
+ Routing station: DY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          54 ,          60
+ --------------------
+ Searching Catchment...
+ Number of grid cells        1034
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        1034
+ Making UH_S grid... DY.uh_s
+ --------------------
+ Routing station: DM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          41 ,          80
+ --------------------
+ Searching Catchment...
+ Number of grid cells         475
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         475
+ Making UH_S grid... DM.uh_s
+ --------------------
+ Routing station: SC [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          24 ,          49
+ --------------------
+ Searching Catchment...
+ Number of grid cells         188
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         188
+ Making UH_S grid... SC.uh_s
+ Making Convolution...
+ Number of Stations=           4
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           2
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           3
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           4
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: UY                   
+ writing data for all steps...UY        
+ writing data for reservoirs upstream of station: UY                   
+ writing data for station: DY                   
+ writing data for all steps...DY        
+ writing data for reservoirs upstream of station: DY                   
+ writing data for station: DM                   
+ writing data for all steps...DM        
+ writing data for reservoirs upstream of station: DM                   
+ writing data for station: SC                   
+ writing data for all steps...SC        
+ writing data for reservoirs upstream of station: SC                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: UY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          70 ,          70
+ --------------------
+ Searching Catchment...
+ Number of grid cells         870
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         870
+ Making UH_S grid... UY.uh_s
+ --------------------
+ Routing station: DY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          54 ,          60
+ --------------------
+ Searching Catchment...
+ Number of grid cells        1034
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        1034
+ Making UH_S grid... DY.uh_s
+ --------------------
+ Routing station: DM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          41 ,          80
+ --------------------
+ Searching Catchment...
+ Number of grid cells         475
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         475
+ Making UH_S grid... DM.uh_s
+ --------------------
+ Routing station: SC [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          24 ,          49
+ --------------------
+ Searching Catchment...
+ Number of grid cells         188
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         188
+ Making UH_S grid... SC.uh_s
+ Making Convolution...
+ Number of Stations=           4
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           2
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           3
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           4
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: UY                   
+ writing data for all steps...UY        
+ writing data for reservoirs upstream of station: UY                   
+ writing data for station: DY                   
+ writing data for all steps...DY        
+ writing data for reservoirs upstream of station: DY                   
+ writing data for station: DM                   
+ writing data for all steps...DM        
+ writing data for reservoirs upstream of station: DM                   
+ writing data for station: SC                   
+ writing data for all steps...SC        
+ writing data for reservoirs upstream of station: SC                   
+ Number of Reservoirs in the reservoir location file=        9999
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: UY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          70 ,          70
+ --------------------
+ Searching Catchment...
+ Number of grid cells         870
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         870
+ Making UH_S grid... UY.uh_s
+ --------------------
+ Routing station: DY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          54 ,          60
+ --------------------
+ Searching Catchment...
+ Number of grid cells        1034
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        1013
+ Making UH_S grid... RES8_DY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          21
+ Making UH_S grid... DY.uh_s
+ --------------------
+ Routing station: DM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          41 ,          80
+ --------------------
+ Searching Catchment...
+ Number of grid cells         475
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_DM.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         168
+ Making UH_S grid... DM.uh_s
+ --------------------
+ Routing station: SC [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          24 ,          49
+ --------------------
+ Searching Catchment...
+ Number of grid cells         188
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         188
+ Making UH_S grid... SC.uh_s
+ Making Convolution...
+ Number of Stations=           4
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           4
+ Station:           2
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           8
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Number of Stations=           4
+ Station:           3
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           6
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Number of Stations=           4
+ Station:           4
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: UY                   
+ writing data for all steps...UY        
+ writing data for reservoirs upstream of station: UY                   
+ writing data for station: DY                   
+ writing data for all steps...DY        
+ writing data for reservoirs upstream of station: DY                   
+ Exporting data for Reservoir Yeywa                                                                   
+ writing data for station: DM                   
+ writing data for all steps...DM        
+ writing data for reservoirs upstream of station: DM                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Exporting data for Reservoir Thaphanseik                                                             
+ writing data for station: SC                   
+ writing data for all steps...SC        
+ writing data for reservoirs upstream of station: SC                   
+ Number of Reservoirs in the reservoir location file=        9999
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: MAGWAY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          29 ,          27
+ --------------------
+ Searching Catchment...
+ Number of grid cells       12089
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         167
+ Making UH_S grid... RES3_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          26
+ Making UH_S grid... RES2_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         118
+ Making UH_S grid... RES5_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          13
+ Making UH_S grid... RES4_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         131
+ Making UH_S grid... RES9_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir        1013
+ Making UH_S grid... RES8_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          74
+ Making UH_S grid... RES10_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         111
+ Making UH_S grid... RES7_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          14
+ Making UH_S grid... RES13_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          40
+ Making UH_S grid... RES11_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         112
+ Making UH_S grid... RES12_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir           2
+ Making UH_S grid... RES1_MAGWAY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        9961
+ Making UH_S grid... MAGWAY.uh_s
+ --------------------
+ Routing station: PYAY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          35 ,           2
+ --------------------
+ Searching Catchment...
+ Number of grid cells       12810
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         167
+ Making UH_S grid... RES3_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          26
+ Making UH_S grid... RES2_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         118
+ Making UH_S grid... RES5_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          13
+ Making UH_S grid... RES4_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         131
+ Making UH_S grid... RES9_PYAY.uh_s
+ Number of grid cells upstream of present reservoir        1013
+ Making UH_S grid... RES8_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          74
+ Making UH_S grid... RES10_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         111
+ Making UH_S grid... RES7_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          23
+ Making UH_S grid... RES17_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          17
+ Making UH_S grid... RES16_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          31
+ Making UH_S grid... RES15_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          37
+ Making UH_S grid... RES14_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          14
+ Making UH_S grid... RES13_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          40
+ Making UH_S grid... RES11_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         112
+ Making UH_S grid... RES12_PYAY.uh_s
+ Number of grid cells upstream of present reservoir           2
+ Making UH_S grid... RES1_PYAY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir       10574
+ Making UH_S grid... PYAY.uh_s
+ --------------------
+ Routing station: UY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          70 ,          70
+ --------------------
+ Searching Catchment...
+ Number of grid cells         870
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         870
+ Making UH_S grid... UY.uh_s
+ --------------------
+ Routing station: DY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          54 ,          60
+ --------------------
+ Searching Catchment...
+ Number of grid cells        1034
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        1013
+ Making UH_S grid... RES8_DY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          21
+ Making UH_S grid... DY.uh_s
+ --------------------
+ Routing station: DM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          41 ,          80
+ --------------------
+ Searching Catchment...
+ Number of grid cells         475
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_DM.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         168
+ Making UH_S grid... DM.uh_s
+ --------------------
+ Routing station: SC [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          24 ,          49
+ --------------------
+ Searching Catchment...
+ Number of grid cells         188
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         188
+ Making UH_S grid... SC.uh_s
+ Making Convolution...
+ Number of Stations=           6
+ Station:           1
+ Number of Reservoirs          14
+ reading grid from files uh_s
+ Working on reservoir no...           3
+ Working on reservoir no...           2
+ Working on reservoir no...           5
+ Working on reservoir no...           4
+ Working on reservoir no...           9
+ Working on reservoir no...           8
+ Working on reservoir no...          10
+ Working on reservoir no...           7
+ Working on reservoir no...           6
+ Working on reservoir no...          13
+ Working on reservoir no...          11
+ Working on reservoir no...          12
+ Working on reservoir no...           1
+ Working on reservoir no...          14
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata3.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata2.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata5.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata4.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata9.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata10.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata7.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: NM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          33 ,          27
+ --------------------
+ Searching Catchment...
+ Number of grid cells         213
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         213
+ Making UH_S grid... NM.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: NM                   
+ writing data for all steps...NM        
+ writing data for reservoirs upstream of station: NM                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: NM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          33 ,          27
+ --------------------
+ Searching Catchment...
+ Number of grid cells         213
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         213
+ Making UH_S grid... NM.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: NM                   
+ writing data for all steps...NM        
+ writing data for reservoirs upstream of station: NM                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: NP [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          37 ,          10
+ --------------------
+ Searching Catchment...
+ Number of grid cells          70
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          70
+ Making UH_S grid... NP.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: NP                   
+ writing data for all steps...NP        
+ writing data for reservoirs upstream of station: NP                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: NP [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          37 ,          10
+ --------------------
+ Searching Catchment...
+ Number of grid cells          70
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          70
+ Making UH_S grid... NP.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: NP                   
+ writing data for all steps...NP        
+ writing data for reservoirs upstream of station: NP                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: NPP [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          32 ,           7
+ --------------------
+ Searching Catchment...
+ Number of grid cells         135
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         135
+ Making UH_S grid... NPP.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: NPP                  
+ writing data for all steps...NPP       
+ writing data for reservoirs upstream of station: NPP                  
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: NPP [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          32 ,           7
+ --------------------
+ Searching Catchment...
+ Number of grid cells         135
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         135
+ Making UH_S grid... NPP.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: NPP                  
+ writing data for all steps...NPP       
+ writing data for reservoirs upstream of station: NPP                  
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata13.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata1.txt                          
+ Number of Stations=           6
+ Station:           2
+ Number of Reservoirs          18
+ reading grid from files uh_s
+ Working on reservoir no...           3
+ Working on reservoir no...           2
+ Working on reservoir no...           5
+ Working on reservoir no...           4
+ Working on reservoir no...           9
+ Working on reservoir no...           8
+ Working on reservoir no...          10
+ Working on reservoir no...           7
+ Working on reservoir no...          17
+ Working on reservoir no...          16
+ Working on reservoir no...          15
+ Working on reservoir no...          14
+ Working on reservoir no...           6
+ Working on reservoir no...          13
+ Working on reservoir no...          11
+ Working on reservoir no...          12
+ Working on reservoir no...           1
+ Working on reservoir no...          18
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata3.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata2.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata5.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata4.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata9.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata10.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata7.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata16.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata15.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata14.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata13.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata1.txt                          
+ Number of Stations=           6
+ Station:           3
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           6
+ Station:           4
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           8
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Number of Stations=           6
+ Station:           5
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           6
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Number of Stations=           6
+ Station:           6
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: MAGWAY               
+ writing data for all steps...MAGWAY    
+ writing data for reservoirs upstream of station: MAGWAY               
+ Exporting data for Reservoir Nongling                                                                
+ Exporting data for Reservoir Sujiahekou                                                              
+ Exporting data for Reservoir Longjiang                                                               
+ Exporting data for Reservoir Maliba                                                                  
+ Exporting data for Reservoir Myogyi                                                                  
+ Exporting data for Reservoir Yeywa                                                                   
+ Exporting data for Reservoir Kinda                                                                   
+ Exporting data for Reservoir Sedwgyi                                                                 
+ Exporting data for Reservoir Thaphanseik                                                             
+ Exporting data for Reservoir Manchaung                                                               
+ Exporting data for Reservoir Salin                                                                   
+ Exporting data for Reservoir Mone                                                                    
+ Exporting data for Reservoir Khuga                                                                   
+ writing data for station: PYAY                 
+ writing data for all steps...PYAY      
+ writing data for reservoirs upstream of station: PYAY                 
+ Exporting data for Reservoir Nongling                                                                
+ Exporting data for Reservoir Sujiahekou                                                              
+ Exporting data for Reservoir Longjiang                                                               
+ Exporting data for Reservoir Maliba                                                                  
+ Exporting data for Reservoir Myogyi                                                                  
+ Exporting data for Reservoir Yeywa                                                                   
+ Exporting data for Reservoir Kinda                                                                   
+ Exporting data for Reservoir Sedwgyi                                                                 
+ Exporting data for Reservoir Taungnawin                                                              
+ Exporting data for Reservoir Pade                                                                    
+ Exporting data for Reservoir Bewtgyi                                                                 
+ Exporting data for Reservoir Natmouk                                                                 
+ Exporting data for Reservoir Thaphanseik                                                             
+ Exporting data for Reservoir Manchaung                                                               
+ Exporting data for Reservoir Salin                                                                   
+ Exporting data for Reservoir Mone                                                                    
+ Exporting data for Reservoir Khuga                                                                   
+ writing data for station: UY                   
+ writing data for all steps...UY        
+ writing data for reservoirs upstream of station: UY                   
+ writing data for station: DY                   
+ writing data for all steps...DY        
+ writing data for reservoirs upstream of station: DY                   
+ Exporting data for Reservoir Yeywa                                                                   
+ writing data for station: DM                   
+ writing data for all steps...DM        
+ writing data for reservoirs upstream of station: DM                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Exporting data for Reservoir Thaphanseik                                                             
+ writing data for station: SC                   
+ writing data for all steps...SC        
+ writing data for reservoirs upstream of station: SC                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=        9999
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: DY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          54 ,          60
+ --------------------
+ Searching Catchment...
+ Number of grid cells        1034
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        1021
+ Making UH_S grid... RES8_DY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          13
+ Making UH_S grid... DY.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           8
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: DY                   
+ writing data for all steps...DY        
+ writing data for reservoirs upstream of station: DY                   
+ Exporting data for Reservoir Yeywa                                                                   
+ Number of Reservoirs in the reservoir location file=        9999
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: MAGWAY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          29 ,          27
+ --------------------
+ Searching Catchment...
+ Number of grid cells       12089
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         167
+ Making UH_S grid... RES3_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          26
+ Making UH_S grid... RES2_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         118
+ Making UH_S grid... RES5_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          13
+ Making UH_S grid... RES4_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         131
+ Making UH_S grid... RES9_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir        1021
+ Making UH_S grid... RES8_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          74
+ Making UH_S grid... RES10_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         111
+ Making UH_S grid... RES7_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          14
+ Making UH_S grid... RES13_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          40
+ Making UH_S grid... RES11_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         112
+ Making UH_S grid... RES12_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir           2
+ Making UH_S grid... RES1_MAGWAY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        9953
+ Making UH_S grid... MAGWAY.uh_s
+ --------------------
+ Routing station: PYAY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          35 ,           2
+ --------------------
+ Searching Catchment...
+ Number of grid cells       12810
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         167
+ Making UH_S grid... RES3_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          26
+ Making UH_S grid... RES2_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         118
+ Making UH_S grid... RES5_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          13
+ Making UH_S grid... RES4_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         131
+ Making UH_S grid... RES9_PYAY.uh_s
+ Number of grid cells upstream of present reservoir        1021
+ Making UH_S grid... RES8_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          74
+ Making UH_S grid... RES10_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         111
+ Making UH_S grid... RES7_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          23
+ Making UH_S grid... RES17_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          17
+ Making UH_S grid... RES16_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          31
+ Making UH_S grid... RES15_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          37
+ Making UH_S grid... RES14_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          14
+ Making UH_S grid... RES13_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          40
+ Making UH_S grid... RES11_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         112
+ Making UH_S grid... RES12_PYAY.uh_s
+ Number of grid cells upstream of present reservoir           2
+ Making UH_S grid... RES1_PYAY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir       10566
+At line 73 of file init_routines.f (unit = 11, file = '/home/ubuntu/vicres_irwd_srp/rout_irwd/reslocnnn.txt')
+Fortran runtime error: Bad integer for item 1 in list input
+
+Error termination. Backtrace:
+#0  0x7f70310c8960 in ???
+#1  0x7f70310c94d9 in ???
+#2  0x7f70313135eb in ???
+#3  0x7f70313165aa in ???
+#4  0x7f70313172aa in ???
+#5  0x7f703131cb7a in ???
+#6  0x55d2d66f8069 in read_rese_
+#7  0x55d2d66e3f57 in MAIN__
+#8  0x55d2d66e723c in main
+ Number of Reservoirs in the reservoir location file=        9999
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: MAGWAY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          29 ,          27
+ --------------------
+ Searching Catchment...
+ Number of grid cells       12089
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         167
+ Making UH_S grid... RES3_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          26
+ Making UH_S grid... RES2_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         118
+ Making UH_S grid... RES5_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          13
+ Making UH_S grid... RES4_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         131
+ Making UH_S grid... RES9_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir        1013
+ Making UH_S grid... RES8_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          74
+ Making UH_S grid... RES10_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         111
+ Making UH_S grid... RES7_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          14
+ Making UH_S grid... RES13_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir          40
+ Making UH_S grid... RES11_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir         112
+ Making UH_S grid... RES12_MAGWAY.uh_s
+ Number of grid cells upstream of present reservoir           2
+ Making UH_S grid... RES1_MAGWAY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        9961
+ Making UH_S grid... MAGWAY.uh_s
+ --------------------
+ Routing station: PYAY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          35 ,           2
+ --------------------
+ Searching Catchment...
+ Number of grid cells       12810
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         167
+ Making UH_S grid... RES3_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          26
+ Making UH_S grid... RES2_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         118
+ Making UH_S grid... RES5_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          13
+ Making UH_S grid... RES4_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         131
+ Making UH_S grid... RES9_PYAY.uh_s
+ Number of grid cells upstream of present reservoir        1013
+ Making UH_S grid... RES8_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          74
+ Making UH_S grid... RES10_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         111
+ Making UH_S grid... RES7_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          23
+ Making UH_S grid... RES17_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          17
+ Making UH_S grid... RES16_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          31
+ Making UH_S grid... RES15_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          37
+ Making UH_S grid... RES14_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          14
+ Making UH_S grid... RES13_PYAY.uh_s
+ Number of grid cells upstream of present reservoir          40
+ Making UH_S grid... RES11_PYAY.uh_s
+ Number of grid cells upstream of present reservoir         112
+ Making UH_S grid... RES12_PYAY.uh_s
+ Number of grid cells upstream of present reservoir           2
+ Making UH_S grid... RES1_PYAY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir       10574
+ Making UH_S grid... PYAY.uh_s
+ --------------------
+ Routing station: UY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          70 ,          70
+ --------------------
+ Searching Catchment...
+ Number of grid cells         870
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         870
+ Making UH_S grid... UY.uh_s
+ --------------------
+ Routing station: DY [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          54 ,          60
+ --------------------
+ Searching Catchment...
+ Number of grid cells        1034
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir        1013
+ Making UH_S grid... RES8_DY.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          21
+ Making UH_S grid... DY.uh_s
+ --------------------
+ Routing station: DM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          41 ,          80
+ --------------------
+ Searching Catchment...
+ Number of grid cells         475
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_DM.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         168
+ Making UH_S grid... DM.uh_s
+ --------------------
+ Routing station: SC [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          24 ,          49
+ --------------------
+ Searching Catchment...
+ Number of grid cells         188
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         188
+ Making UH_S grid... SC.uh_s
+ --------------------
+ Routing station: NM [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          33 ,          27
+ --------------------
+ Searching Catchment...
+ Number of grid cells         213
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          37
+ Making UH_S grid... RES14_NM.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         176
+ Making UH_S grid... NM.uh_s
+ --------------------
+ Routing station: NP [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          37 ,          10
+ --------------------
+ Searching Catchment...
+ Number of grid cells          70
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          17
+ Making UH_S grid... RES16_NP.uh_s
+ Number of grid cells upstream of present reservoir          31
+ Making UH_S grid... RES15_NP.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir          22
+ Making UH_S grid... NP.uh_s
+ --------------------
+ Routing station: NPP [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          32 ,           7
+ --------------------
+ Searching Catchment...
+ Number of grid cells         135
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         135
+ Making UH_S grid... NPP.uh_s
+ Making Convolution...
+ Number of Stations=           9
+ Station:           1
+ Number of Reservoirs          14
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=        9999
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: DT [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          43 ,          64
+ --------------------
+ Searching Catchment...
+ Number of grid cells         683
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         307
+ Making UH_S grid... RES6_DT.uh_s
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         376
+ Making UH_S grid... DT.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           6
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: DT                   
+ writing data for all steps...DT        
+ writing data for reservoirs upstream of station: DT                   
+ Exporting data for Reservoir Thaphanseik                                                             
+ Making UH_S grid... PYAY.uh_s
+ Making Convolution...
+ Number of Stations=           2
+ Station:           1
+ Number of Reservoirs          14
+ reading grid from files uh_s
+ Working on reservoir no...           3
+ Working on reservoir no...           2
+ Working on reservoir no...           5
+ Working on reservoir no...           4
+ Working on reservoir no...           9
+ Working on reservoir no...           8
+ Working on reservoir no...          10
+ Working on reservoir no...           7
+ Working on reservoir no...           6
+ Working on reservoir no...          13
+ Working on reservoir no...          11
+ Working on reservoir no...          12
+ Working on reservoir no...           1
+ Working on reservoir no...          14
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata3.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata2.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata5.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata4.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata9.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata10.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata7.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata13.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata1.txt                          
+ Number of Stations=           2
+ Station:           2
+ Number of Reservoirs          18
+ reading grid from files uh_s
+ Working on reservoir no...           3
+ Working on reservoir no...           2
+ Working on reservoir no...           5
+ Working on reservoir no...           4
+ Working on reservoir no...           9
+ Working on reservoir no...           8
+ Working on reservoir no...          10
+ Working on reservoir no...           7
+ Working on reservoir no...          17
+ Working on reservoir no...          16
+ Working on reservoir no...          15
+ Working on reservoir no...          14
+ Working on reservoir no...           6
+ Working on reservoir no...          13
+ Working on reservoir no...          11
+ Working on reservoir no...          12
+ Working on reservoir no...           1
+ Working on reservoir no...          18
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata3.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata2.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata5.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata4.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata9.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata10.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata7.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata16.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata15.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata14.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata13.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata1.txt                          
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: MAGWAY               
+ writing data for all steps...MAGWAY    
+ writing data for reservoirs upstream of station: MAGWAY               
+ Exporting data for Reservoir Nongling                                                                
+ Exporting data for Reservoir Sujiahekou                                                              
+ Exporting data for Reservoir Longjiang                                                               
+ Exporting data for Reservoir Maliba                                                                  
+ Exporting data for Reservoir Myogyi                                                                  
+ Exporting data for Reservoir Yeywa                                                                   
+ Exporting data for Reservoir Kinda                                                                   
+ Exporting data for Reservoir Sedwgyi                                                                 
+ Exporting data for Reservoir Thaphanseik                                                             
+ Exporting data for Reservoir Manchaung                                                               
+ Exporting data for Reservoir Salin                                                                   
+ Exporting data for Reservoir Mone                                                                    
+ Exporting data for Reservoir Khuga                                                                   
+ writing data for station: PYAY                 
+ writing data for all steps...PYAY      
+ writing data for reservoirs upstream of station: PYAY                 
+ Exporting data for Reservoir Nongling                                                                
+ Exporting data for Reservoir Sujiahekou                                                              
+ Exporting data for Reservoir Longjiang                                                               
+ Exporting data for Reservoir Maliba                                                                  
+ Exporting data for Reservoir Myogyi                                                                  
+ Exporting data for Reservoir Yeywa                                                                   
+ Exporting data for Reservoir Kinda                                                                   
+ Exporting data for Reservoir Sedwgyi                                                                 
+ Exporting data for Reservoir Taungnawin                                                              
+ Exporting data for Reservoir Pade                                                                    
+ Exporting data for Reservoir Bewtgyi                                                                 
+ Exporting data for Reservoir Natmouk                                                                 
+ Exporting data for Reservoir Thaphanseik                                                             
+ Exporting data for Reservoir Manchaung                                                               
+ Exporting data for Reservoir Salin                                                                   
+ Exporting data for Reservoir Mone                                                                    
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Exporting data for Reservoir Khuga                                                                   
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Number of Reservoirs in the reservoir location file=           0
+ NDAY =        10957  NMONTHS =          360
+ --------------------
+ Routing station: DT [Active]-->Unit Hydrograph File:NONE                                                                            
+ Location:          43 ,          64
+ --------------------
+ Searching Catchment...
+ Number of grid cells         683
+ Reading grid unit hydrograph (UH)...
+ Making Grid UH for Reservoir Catchments...
+ Making Grid UH for Non-Reservoir Catchments...
+ Number of grid cells upstream of present reservoir         683
+ Making UH_S grid... DT.uh_s
+ Making Convolution...
+ Number of Stations=           1
+ Station:           1
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: DT                   
+ writing data for all steps...DT        
+ writing data for reservoirs upstream of station: DT                   
+ reading grid from files uh_s
+ Working on reservoir no...           3
+ Working on reservoir no...           2
+ Working on reservoir no...           5
+ Working on reservoir no...           4
+ Working on reservoir no...           9
+ Working on reservoir no...           8
+ Working on reservoir no...          10
+ Working on reservoir no...           7
+ Working on reservoir no...           6
+ Working on reservoir no...          13
+ Working on reservoir no...          11
+ Working on reservoir no...          12
+ Working on reservoir no...           1
+ Working on reservoir no...          14
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata3.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata2.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata5.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata4.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata9.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata10.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata7.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata13.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata1.txt                          
+ Number of Stations=           9
+ Station:           2
+ Number of Reservoirs          18
+ reading grid from files uh_s
+ Working on reservoir no...           3
+ Working on reservoir no...           2
+ Working on reservoir no...           5
+ Working on reservoir no...           4
+ Working on reservoir no...           9
+ Working on reservoir no...           8
+ Working on reservoir no...          10
+ Working on reservoir no...           7
+ Working on reservoir no...          17
+ Working on reservoir no...          16
+ Working on reservoir no...          15
+ Working on reservoir no...          14
+ Working on reservoir no...           6
+ Working on reservoir no...          13
+ Working on reservoir no...          11
+ Working on reservoir no...          12
+ Working on reservoir no...           1
+ Working on reservoir no...          18
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata3.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata2.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata5.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata4.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata9.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata10.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata7.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata16.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata15.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata14.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata13.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata1.txt                          
+ Number of Stations=           9
+ Station:           3
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           9
+ Station:           4
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           8
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata8.txt                          
+ Number of Stations=           9
+ Station:           5
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...           6
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata6.txt                          
+ Number of Stations=           9
+ Station:           6
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Number of Stations=           9
+ Station:           7
+ Number of Reservoirs           2
+ reading grid from files uh_s
+ Working on reservoir no...          14
+ Working on reservoir no...           2
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata14.txt                         
+ Number of Stations=           9
+ Station:           8
+ Number of Reservoirs           3
+ reading grid from files uh_s
+ Working on reservoir no...          16
+ Working on reservoir no...          15
+ Working on reservoir no...           3
+ Reading Reservoir Parameters.....
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata16.txt                         
+ Predefined Time Series of Storage:/home/ubuntu/vicres_irwd_srp/rout_irwd/ResOP6/storagedata/storagedata15.txt                         
+ Number of Stations=           9
+ Station:           9
+ Number of Reservoirs           1
+ reading grid from files uh_s
+ Working on reservoir no...           1
+ Reading Reservoir Parameters.....
+ Reservoir Modeling Considering Operating Curve.....
+ writing data...
+ writing data for station: MAGWAY               
+ writing data for all steps...MAGWAY    
+ writing data for reservoirs upstream of station: MAGWAY               
+ Exporting data for Reservoir Nongling                                                                
+ Exporting data for Reservoir Sujiahekou                                                              
+ Exporting data for Reservoir Longjiang                                                               
+ Exporting data for Reservoir Maliba                                                                  
+ Exporting data for Reservoir Myogyi                                                                  
+ Exporting data for Reservoir Yeywa                                                                   
+ Exporting data for Reservoir Kinda                                                                   
+ Exporting data for Reservoir Sedwgyi                                                                 
+ Exporting data for Reservoir Thaphanseik                                                             
+ Exporting data for Reservoir Manchaung                                                               
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ Exporting data for Reservoir Salin                                                                   
+ Exporting data for Reservoir Mone                                                                    
+ Exporting data for Reservoir Khuga                                                                   
+ writing data for station: PYAY                 
+ writing data for all steps...PYAY      
+ writing data for reservoirs upstream of station: PYAY                 
+ Exporting data for Reservoir Nongling                                                                
+ Exporting data for Reservoir Sujiahekou                                                              
+ Exporting data for Reservoir Longjiang                                                               
+ Exporting data for Reservoir Maliba                                                                  
+ Exporting data for Reservoir Myogyi                                                                  
+ Exporting data for Reservoir Yeywa                                                                   
+ Exporting data for Reservoir Kinda                                                                   
+ Exporting data for Reservoir Sedwgyi                                                                 
+ Exporting data for Reservoir Taungnawin                                                              
+ Exporting data for Reservoir Pade                                                                    
+ Exporting data for Reservoir Bewtgyi                                                                 
+ Exporting data for Reservoir Natmouk                                                                 
+ Exporting data for Reservoir Thaphanseik                                                             
+ Exporting data for Reservoir Manchaung                                                               
+ Exporting data for Reservoir Salin                                                                   
+ Exporting data for Reservoir Mone                                                                    
+ Exporting data for Reservoir Khuga                                                                   
+ writing data for station: UY                   
+ writing data for all steps...UY        
+ writing data for reservoirs upstream of station: UY                   
+ writing data for station: DY                   
+ writing data for all steps...DY        
+ writing data for reservoirs upstream of station: DY                   
+ Exporting data for Reservoir Yeywa                                                                   
+ writing data for station: DM                   
+ writing data for all steps...DM        
+ writing data for reservoirs upstream of station: DM                   
+ Exporting data for Reservoir Thaphanseik                                                             
+ writing data for station: SC                   
+ writing data for all steps...SC        
+ writing data for reservoirs upstream of station: SC                   
+ writing data for station: NM                   
+ writing data for all steps...NM        
+ writing data for reservoirs upstream of station: NM                   
+ Exporting data for Reservoir Natmouk                                                                 
+ writing data for station: NP                   
+ writing data for all steps...NP        
+ writing data for reservoirs upstream of station: NP                   
+ Exporting data for Reservoir Pade                                                                    
+ Exporting data for Reservoir Bewtgyi                                                                 
+ writing data for station: NPP                  
+ writing data for all steps...NPP       
+ writing data for reservoirs upstream of station: NPP                  

@@ -1,0 +1,37 @@
+# Routing main file
+# NAME OF FLOW DIRECTION FILE
+../parameter/flowdir.txt
+# NAME OF VELOCITY FILE
+.false.
+4.5
+# NAME OF DIFF FILE
+.false.
+3052.0
+# NAME OF XMASK FILE
+.false.
+25000
+# NAME OF FRACTION FILE
+.false.
+1.0
+# NAME OF STATION FILE
+../parameter/station.txt
+# PATH OF INPUT FILES AND PRECISION
+../../rainfall_runoff/output/fluxes_
+2
+# PATH OF OUTPUT FILES
+../output/dam/
+# RESERVOIR LOCATION
+../parameter/resloc.txt
+# RESERVOIR PARAMETERS
+../parameter/reservoirs/
+# YEAR AND MONTH OF MODEL OUTPUT TO ROUTE & ROUTED OUTPUT TO WRITE
+1994 1 2023 12
+1994 1 2023 12
+# NAME OF UNIT HYDROGRAPH FILE
+../model/UH.all
+# Simulation Mode: True: Run Step-by-Step Mode; False: Run Batch Mode for all Steps
+.false.
+# Start Day and Current Simulation Day (for STEPBYSTEP Version)
+2000 1 1 2000 1 1
+# Write Outputs
+.true.
