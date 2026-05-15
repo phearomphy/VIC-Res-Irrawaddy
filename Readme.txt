@@ -28,7 +28,7 @@ c) ./vicNl -g ../parameter/globalparam.txt
 4) Go to ../routing/model and run the routing model:
 a) make clean
 b) make
-c) ./rout ../parameter/configuration.txt
+c) ./rout ../parameter/configuration_dam.txt
 
 5) The final output files will be saved in ../routing/output
 
