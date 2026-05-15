@@ -51,7 +51,7 @@ ALMA_INPUT		FALSE							# TRUE = ALMA-compliant input variable units; FALSE = st
 ##############################################################
 # Land Surface Files and Parameters
 ##############################################################
-SOIL           		../parameter/soilparam.txt			# Soil parameter path/file
+SOIL           		../parameter/soilpar_30n51n.txt			# Soil parameter path/file
 NLAYER			2							# number of soil layers
 NODES			3							# number of soil thermal nodes 
 ARC_SOIL        	FALSE  							# TRUE = read soil parameters from ARC/INFO ASCII grids

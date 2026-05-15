@@ -13,7 +13,7 @@ Steps to setup and run VIC and VIC-Res:
 5) Go to ../rainfall_runoff/model and run the rainfall-runoff model:
 a) make clean
 b) make
-c) ./vicNl -g ../rainfall_runoff/parameter/globalparam.txt
+c) ./vicNl -g ../parameter/globalparam.txt
 
 6) Run the routing model once the rainfall-runoff model run is completed.
 
@@ -28,7 +28,7 @@ c) ./vicNl -g ../rainfall_runoff/parameter/globalparam.txt
 4) Go to ../routing/model and run the routing model:
 a) make clean
 b) make
-c) ./rout ../routing/parameter/configuration.txt
+c) ./rout ../parameter/configuration.txt
 
 5) The final output files will be saved in ../routing/output
 
